@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "RC Car",
+        "image": "rc-car.jpg",
+        "description": "Best rc car in the World",
+        "price": 500.99
     }
 ]
